@@ -292,7 +292,7 @@ main aside {
 
 /* forms and inputs  */
 textarea, input:not([type=range]), button, select {
-	font: var(--font-h);
+	font: var(--font-c);
 	border-radius: 4px;
 	border: 1.5px solid var(--cmed);
 	padding: 0.4em 0.8em;
